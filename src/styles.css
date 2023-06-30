@@ -57,4 +57,14 @@ footer li {
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+}
+main h3{
+  opacity: 0.5;
+  text-transform: uppercase;
 }
